@@ -7,3 +7,6 @@ def main(msg):
 #some comment added
 
 main("Hello World again")
+
+for node in range(0,15):
+	print(node)
